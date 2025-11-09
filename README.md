@@ -27,7 +27,7 @@ CLI Framework	Commander.js
 UUID Generator	uuid
 🚀 Setup Instructions
 1️⃣ Install Dependencies
-git clone https://github.com/<your-username>/queuectl.git
+git clone https://github.com/Nuthannaidu/queuectl.git
 cd queuectl
 npm install
 npm link
