@@ -1,0 +1,19 @@
+{
+  "name": "queuectl",
+  "version": "1.0.0",
+  "bin": { "queuectl": "./index.js" },
+"type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "better-sqlite3": "^12.4.1",
+    "commander": "^14.0.2",
+    "uuid": "^13.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+[
+  { "command": "echo Start batch" },
+  { "command": "sleep 2" },
+  { "command": "exit 1", "max_retries": 2 },
+  { "command": "echo Batch complete" },
+   { "command": "echo Hello from file!" },
+  { "command": "sleep 3" },
+  { "command": "echo Done after sleep" }
+]
+
+ 
+
